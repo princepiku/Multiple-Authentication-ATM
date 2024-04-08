@@ -1,0 +1,23 @@
+apiKey: "AIzaSyBPdS3vr00WBM9yMJhfKgQ72radsZuQCHY",
+  authDomain: "appdemo-c904d.firebaseapp.com",
+databaseURL:"https://appdemo-c904d-default-rtdb.firebaseio.com/",
+  projectId: "appdemo-c904d",
+  storageBucket: "appdemo-c904d.appspot.com",
+  messagingSenderId: "650609176050",
+  appId: "1:650609176050:web:638127333fa381b9750f6b",
+  measurementId: "G-KJGEX9Q4WV"
+
+
+
+
+
+******************Compnay*****************
+
+'apiKey': "AIzaSyA2en7BLCapNB6pwgIBrqCHpTyu6_4E9Hw",
+    'authDomain': "cybercrime-cell.firebaseapp.com",
+    'databaseURL': "https://cybercrime-cell-default-rtdb.firebaseio.com/",
+    'projectId': "cybercrime-cell",
+    'storageBucket': "cybercrime-cell.appspot.com",
+    'messagingSenderId': "810317709805",
+    'appId': "1:810317709805:web:0748db279dcef76b7227e4",
+    'measurementId': "G-G7G3SERMVL"
