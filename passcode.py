@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import *
-import pyrebase
+#import pyrebase
 from PIL import ImageTk, Image
 from tkinter import messagebox
 import cv2
@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 import os
 import subprocess
 from gtts import gTTS
-import pyrebase
+#import pyrebase
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg#
 from PIL import Image,ImageTk
 from openpyxl import *

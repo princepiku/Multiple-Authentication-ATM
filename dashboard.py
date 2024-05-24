@@ -1,6 +1,7 @@
 import tkinter
 from tkinter import *
-import pyrebase
+#import pyrebase
+import fcntl
 from PIL import ImageTk, Image
 from tkinter import messagebox
 import cv2

@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import *
-import pyrebase
+#import pyrebase
 from PIL import ImageTk, Image
 from tkinter import messagebox
 
